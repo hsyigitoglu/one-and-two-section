@@ -1,5 +1,6 @@
 @media  (max-width:1220px){
-    .left-col{
+    .left-col,
+    .right-col{
         padding: 25px;
     }
 } 
@@ -7,7 +8,7 @@
     .left-col .second-p{
         font-size: 14px;
     }
-    .left-col p:last-child{
+    .right-col p{
         margin-bottom: -3px;
     }
 }
