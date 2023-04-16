@@ -13,12 +13,13 @@
     --light-gray:hsl(204, 43%, 93%);
     --grayish-blue:hsl(218, 22%, 67%);
     --last-p-color: hsl(180, 47%, 82%);
+    --white: hsl(0, 0%, 100%);
 }
 body{
     font-family: var(--main-font);
     font-size: 16px;
     font-weight: 400;
-    background-color: var(--grayish-blue);
+    background-color: var(--light-gray);
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -52,7 +53,7 @@ li{
     overflow: hidden;
 }
 .col-12{
-    background-color: var(--light-gray);
+    background-color: var(--white);
     padding: 50px;
 }
 .col-12 h4{
