@@ -79,9 +79,6 @@ li{
     background-color: var(--cyan);
     color: var(--white);
 }
-.left-col:last-child{
-    background-color: var(--light-cyan);
-}
 .left-col span{
     font-size: 32px;
     font-weight: 700;
