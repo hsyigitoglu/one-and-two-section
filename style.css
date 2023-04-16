@@ -93,7 +93,7 @@ li{
 .left-col .main-btn{
     border-radius: 10px;
     background-color: var(--bright-yellow);
-    color: var(--light-gray);
+    color: var(--white);
     padding: 10px; 
     margin-top: 50px;
 }
